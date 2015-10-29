@@ -272,7 +272,7 @@ h2 {
 }
 
 #quotes .container{
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-bottom:0px;
 }
 .sidebar-image-gallery img { opacity: 0.2; }
@@ -306,4 +306,17 @@ h2 {
 #picsofcom footer{
 	color: black;
 	font-size: 20px;
+	text-align: justify;
+}
+#links h2{
+	text-align:left;
+}
+#quotes h2{
+	text-align: left;
+}
+#quotes h3{
+	text-align: justify;
+}
+#quotes h4{
+	text-align: left;
 }
