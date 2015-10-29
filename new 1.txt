@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='coexistence/css'>
+<link href="pictures/favicona.ico" rel="icon" type="image/x-icon" />
+<link href="sa_coexistence.css" rel="stylesheet" type="text/css" />
+<link href="css/bootstrap.css" rel="stylesheet"/>
+<title>St Andrews Coexistence Initiative</title>
+<meta name="viewport" content="wodth=device-width">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+<style>
+html { 
+  background: #F3F4E2; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+</style>
+</head>
