@@ -1,8 +1,8 @@
 @font-face {
-  font-family: 'Poiret One';
+  font-family: 'Adobe Caslon Pro';
   font-style: cursive;
   font-weight: normal;
-  src: local('Poiret One'), url('./Poiret_One-2/Poiret_One.ttf') format('woff');
+  src: local('Adobe Caslon Pro'), url('./Adobe_Caslon_Pro_Regular/Adobe_Caslon_Pro_Regular.ttf') format('woff');
 }
 }
 @charset "utf-8";
@@ -46,7 +46,7 @@ body {
 	text-align: center;
 	background-size: cover;
 	color: #FFF;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Adobe Caslon Pro', cursive;
     font-size: 1.8em;
     padding: 10px;
 	margin-bottom: 30px;
@@ -61,7 +61,7 @@ margin-bottom: 10px;
   line-height: 100%;
   position:relative;
   z-index:999;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Adobe Caslon Pro', cursive;
 }
 
 #menu-bar ul {
@@ -105,7 +105,7 @@ html[xmlns] #menu-bar {
 }
 
 #content {
-	font-family: 'Poiret One', cursive;
+	font-family: 'Adobe Caslon Pro', cursive;
 	background-color: hsla(0,0%,100%,0.8);
 	color: #333;
 	padding-top: 10px;
@@ -159,7 +159,7 @@ h2 {
 
 #footer {
 	text-align: center;
-	font-family:  'Poiret One', cursive;
+	font-family:  'Adobe Caslon Pro', cursive;
 	font-size: 0.8em;
 	color: white;
 }
@@ -188,7 +188,7 @@ h2 {
 	text-align:center;
 	margin-top:200px;
 	color: #00004d;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Adobe Caslon Pro', cursive;
 }
 #social-buttons{
 	background-color: #212324;
@@ -213,12 +213,12 @@ h2 {
 	min-height:50px;
 }
 .nav{
-	font-family: 'Poiret One', cursive;
+	font-family: 'Adobe Caslon Pro', cursive;
 	font-size: medium;
 	
 }
 .navbar-brand{
-	font-family: 'Poiret One', cursive;
+	font-family: 'Adobe Caslon Pro', cursive;
 	font-size: large;
 }
 #mission .container{
@@ -248,7 +248,7 @@ h2 {
 	text-align:center;
 	margin-top:0px;
 	color: #00004d;
-	font-family: 'Poiret One', cursive;
+	font-family: 'Adobe Caslon Pro', cursive;
 }
 
 
