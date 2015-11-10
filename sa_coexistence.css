@@ -171,7 +171,7 @@ h2 {
 	background-attachment: fixed;
 }
 .jumbotron a{
-	color: #C94441;
+	color: #00004d;
 }
 #smalljumbotron .jumbotron{
 	min-height: 350px
@@ -187,7 +187,7 @@ h2 {
 .container {
 	text-align:center;
 	margin-top:200px;
-	color: #C94441;
+	color: #00004d;
 	font-family: 'Poiret One', cursive;
 }
 #social-buttons{
@@ -230,7 +230,7 @@ h2 {
 	text-align: center;
 }
 #mission a{
-	color: #C94441;
+	color: #00004d;
 }
 
 #about .container{
@@ -247,7 +247,7 @@ h2 {
 #commitee .container{
 	text-align:center;
 	margin-top:0px;
-	color: #C94441;
+	color: #00004d;
 	font-family: 'Poiret One', cursive;
 }
 
@@ -284,11 +284,11 @@ h2 {
 	text-align: justify;
 }
 #activities a{
-	color:#C94441;
+	color:#00004d;
 }
 
 #conference2016 a{
-	color:#C94441;
+	color:#00004d;
 }
 
 #picsofcoma footer{
@@ -304,7 +304,7 @@ h2 {
 	text-align: left;
 }
 #picsofcom footer{
-	color: black;
+	color: #00004d;
 	font-size: 20px;
 	text-align: justify;
 }
